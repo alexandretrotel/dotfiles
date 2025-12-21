@@ -1,0 +1,5 @@
+clipboard-read = "allow"
+clipboard-paste-protection = false
+
+font-size = 18
+theme = "ayu"

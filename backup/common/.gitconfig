@@ -1,0 +1,7 @@
+[user]
+	email = trotelalexandre@proton.me
+	name = Alexandre Trotel
+[init]
+	defaultBranch = main
+[core]
+	ignorecase = false

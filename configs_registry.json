@@ -1,0 +1,82 @@
+{
+  "version": "1.0.0",
+  "entries": {
+    "aerospace_config": {
+      "name": "Aerospace Config",
+      "source_path": "aerospace/aerospace.toml",
+      "target_path": "/Users/trotelalexandre/.config/aerospace/aerospace.toml",
+      "enabled": true,
+      "description": "Aerospace window manager configuration"
+    },
+    "cursor_keybindings": {
+      "name": "Cursor Keybindings",
+      "source_path": "cursor/keybindings.json",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/Cursor/User/keybindings.json",
+      "enabled": true,
+      "description": "Cursor user keybindings"
+    },
+    "cursor_settings": {
+      "name": "Cursor Settings",
+      "source_path": "cursor/settings.json",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/Cursor/User/settings.json",
+      "enabled": true,
+      "description": "Cursor user settings"
+    },
+    "ghostty_config": {
+      "name": "Ghostty Terminal Config",
+      "source_path": "ghostty/config",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/com.mitchellh.ghostty/config",
+      "enabled": true,
+      "description": "Ghostty terminal emulator configuration"
+    },
+    "git_config": {
+      "name": "Git Config",
+      "source_path": ".gitconfig",
+      "target_path": "/Users/trotelalexandre/.gitconfig",
+      "enabled": true,
+      "description": "Global Git configuration"
+    },
+    "vimrc": {
+      "name": "Vim Configuration",
+      "source_path": ".vimrc",
+      "target_path": "/Users/trotelalexandre/.vimrc",
+      "enabled": true,
+      "description": "Vim editor configuration"
+    },
+    "vscode_keybindings": {
+      "name": "VSCode Keybindings",
+      "source_path": "vscode/keybindings.json",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/Code/User/keybindings.json",
+      "enabled": true,
+      "description": "Visual Studio Code keybindings"
+    },
+    "vscode_settings": {
+      "name": "VSCode Settings",
+      "source_path": "vscode/settings.json",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/Code/User/settings.json",
+      "enabled": true,
+      "description": "Visual Studio Code user settings"
+    },
+    "zed_keymaps": {
+      "name": "Zed Keymaps",
+      "source_path": "zed/keymap.json",
+      "target_path": "/Users/trotelalexandre/.config/zed/keymap.json",
+      "enabled": true,
+      "description": "Zed editor keymaps"
+    },
+    "zed_settings": {
+      "name": "Zed Settings",
+      "source_path": "zed/settings.json",
+      "target_path": "/Users/trotelalexandre/.config/zed/settings.json",
+      "enabled": true,
+      "description": "Zed editor settings"
+    },
+    "zshrc": {
+      "name": "Zsh Configuration",
+      "source_path": ".zshrc",
+      "target_path": "/Users/trotelalexandre/.zshrc",
+      "enabled": true,
+      "description": "Main Zsh shell configuration file"
+    }
+  }
+}

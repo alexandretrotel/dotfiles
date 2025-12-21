@@ -1,0 +1,26 @@
+bat v0.26.1:
+    bat
+cargo-outdated v0.17.0:
+    cargo-outdated
+cargo-release v0.25.22:
+    cargo-release
+cargo-tarpaulin v0.34.1:
+    cargo-tarpaulin
+cargo-update v18.0.0:
+    cargo-install-update
+    cargo-install-update-config
+exa v0.10.1:
+    exa
+fd-find v10.3.0:
+    fd
+feedyourai v1.5.2:
+    fyai
+mntn v2.0.0 (/Users/trotelalexandre/Documents/projects/mntn):
+    mntn
+ripgrep v15.1.0:
+    rg
+simple-todo-cli v1.0.1:
+    todo
+todo-tree v0.2.1 (/Users/trotelalexandre/Documents/projects/todo-tree/todo-tree-monorepo/cli):
+    todo-tree
+    tt

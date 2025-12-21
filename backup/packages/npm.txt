@@ -1,0 +1,5 @@
+/Users/trotelalexandre/.nvm/versions/node/v24.2.0/lib
+├── @zap-studio/webhooks@ -> ./../../../../../Documents/projects/zap-studio/monorepo/packages/webhooks
+├── corepack@0.34.5
+└── npm@11.7.0
+

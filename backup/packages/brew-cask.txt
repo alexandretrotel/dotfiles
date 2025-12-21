@@ -1,0 +1,13 @@
+bruno
+font-geist-mono-nerd-font
+font-hack-nerd-font
+ghostty
+helium-browser
+libreoffice
+lm-studio
+ngrok
+notion-calendar
+orbstack
+pearcleaner
+sf-symbols
+zed

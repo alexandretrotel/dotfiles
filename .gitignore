@@ -1,0 +1,20 @@
+# mntn log files
+mntn.log
+*.log
+.active-profile
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# OS generated files
+*~
+*.swp
+*.swo
+
+# Backup directories (optional - uncomment if you don't want to track these)
+symlinks/

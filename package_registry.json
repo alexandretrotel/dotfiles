@@ -1,0 +1,68 @@
+{
+  "version": "1.0.0",
+  "entries": {
+    "brew": {
+      "name": "Homebrew",
+      "command": "brew",
+      "args": ["leaves"],
+      "output_file": "brew.txt",
+      "enabled": true,
+      "description": "Homebrew installed packages (leaves only)",
+      "platforms": ["macos", "linux"]
+    },
+    "brew_cask": {
+      "name": "Homebrew Casks",
+      "command": "brew",
+      "args": ["list", "--cask"],
+      "output_file": "brew-cask.txt",
+      "enabled": true,
+      "description": "Homebrew installed casks (applications)",
+      "platforms": ["macos"]
+    },
+    "bun": {
+      "name": "Bun",
+      "command": "bun",
+      "args": ["pm", "ls", "-g"],
+      "output_file": "bun.txt",
+      "enabled": true,
+      "description": "Bun globally installed packages",
+      "platforms": null
+    },
+    "cargo": {
+      "name": "Cargo",
+      "command": "cargo",
+      "args": ["install", "--list"],
+      "output_file": "cargo.txt",
+      "enabled": true,
+      "description": "Cargo installed packages",
+      "platforms": null
+    },
+    "npm": {
+      "name": "npm",
+      "command": "npm",
+      "args": ["ls", "-g"],
+      "output_file": "npm.txt",
+      "enabled": true,
+      "description": "npm globally installed packages",
+      "platforms": null
+    },
+    "pnpm": {
+      "name": "pnpm",
+      "command": "pnpm",
+      "args": ["ls", "-g"],
+      "output_file": "pnpm.txt",
+      "enabled": true,
+      "description": "pnpm globally installed packages",
+      "platforms": null
+    },
+    "uv": {
+      "name": "uv",
+      "command": "uv",
+      "args": ["tool", "list"],
+      "output_file": "uv.txt",
+      "enabled": true,
+      "description": "uv installed tools",
+      "platforms": null
+    }
+  }
+}
