@@ -21,7 +21,7 @@ ripgrep v15.1.0:
     rg
 simple-todo-cli v1.0.1:
     todo
-todo-tree v0.2.1 (/Users/trotelalexandre/Documents/projects/todo-tree/todo-tree-monorepo/cli):
+todo-tree v0.2.1:
     todo-tree
     tt
 vedit v0.1.0:
