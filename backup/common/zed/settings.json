@@ -7,27 +7,27 @@
   "theme": {
     "mode": "system",
     "light": "macOS Classic Light",
-    "dark": "macOS Classic Dark",
+    "dark": "macOS Classic Dark"
   },
 
   "icon_theme": {
     "mode": "system",
     "light": "Colored Zed Icons Theme Light",
-    "dark": "Colored Zed Icons Theme Dark",
+    "dark": "Colored Zed Icons Theme Dark"
   },
 
   "terminal": {
-    "dock": "bottom",
+    "dock": "bottom"
   },
 
   "diagnostics": {
     "inline": {
-      "enabled": true,
-    },
+      "enabled": true
+    }
   },
 
   "notification_panel": {
-    "button": false,
+    "button": false
   },
 
   "agent": {
@@ -35,17 +35,17 @@
     "default_profile": "write",
     "default_model": {
       "provider": "copilot_chat",
-      "model": "gpt-5-mini",
+      "model": "gpt-5-mini"
     },
     "inline_assistant_model": {
       "provider": "copilot_chat",
-      "model": "gpt-4.1",
+      "model": "gpt-4.1"
     },
-    "model_parameters": [],
+    "model_parameters": []
   },
 
   "telemetry": {
     "diagnostics": false,
-    "metrics": false,
-  },
+    "metrics": false
+  }
 }
