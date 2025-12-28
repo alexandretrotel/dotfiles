@@ -1,5 +1,10 @@
 bat v0.26.1:
     bat
+cargo-edit v0.13.8:
+    cargo-add
+    cargo-rm
+    cargo-set-version
+    cargo-upgrade
 cargo-outdated v0.17.0:
     cargo-outdated
 cargo-release v0.25.22:
