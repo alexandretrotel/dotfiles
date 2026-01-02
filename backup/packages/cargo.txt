@@ -14,8 +14,8 @@ cargo-tarpaulin v0.35.0:
 cargo-update v18.0.0:
     cargo-install-update
     cargo-install-update-config
-exa v0.10.1:
-    exa
+eza v0.23.4:
+    eza
 fd-find v10.3.0:
     fd
 feedyourai v1.6.0:
@@ -31,3 +31,5 @@ todo-tree v0.2.1:
     tt
 vedit v0.1.0:
     vedit
+zoxide v0.9.8:
+    zoxide
