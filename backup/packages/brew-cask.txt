@@ -1,5 +1,4 @@
 bruno
-font-geist-mono-nerd-font
 font-hack-nerd-font
 ghostty
 helium-browser
