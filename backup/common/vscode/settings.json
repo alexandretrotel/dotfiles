@@ -59,6 +59,7 @@
 	"terminal.explorerKind": "both",
 	"terminal.integrated.enableMultiLinePasteWarning": "never",
 
+	"workbench.activityBar.location": "top",
 	"workbench.colorTheme": "Default Light Modern",
 	"workbench.preferredLightColorTheme": "Default Light Modern",
 	"workbench.preferredDarkColorTheme": "Default Dark Modern",
