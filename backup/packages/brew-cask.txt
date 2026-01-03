@@ -9,4 +9,5 @@ notion-calendar
 orbstack
 pearcleaner
 sf-symbols
+visual-studio-code
 zed
