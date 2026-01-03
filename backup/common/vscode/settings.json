@@ -5,14 +5,6 @@
 	"explorer.confirmDragAndDrop": false,
 	"explorer.confirmPasteNative": false,
 
-	"editor.defaultFormatter": "biomejs.biome",
-	"editor.formatOnSave": false,
-	"editor.inlineSuggest.enabled": true,
-	"editor.minimap.enabled": false,
-	"editor.trimAutoWhitespace": true,
-	"files.trimTrailingWhitespace": true,
-	"files.insertFinalNewline": true,
-
 	"[dockercompose]": {
 		"editor.defaultFormatter": "redhat.vscode-yaml"
 	},
@@ -45,9 +37,22 @@
 		"editor.formatOnSave": true
 	},
 
+	"claudeCode.preferredLocation": "panel",
+
+	"diffEditor.ignoreTrimWhitespace": false,
+	"diffEditor.renderSideBySide": true,
+
+	"editor.defaultFormatter": "biomejs.biome",
+	"editor.formatOnSave": false,
+	"editor.inlineSuggest.enabled": true,
+	"editor.minimap.enabled": false,
+	"editor.trimAutoWhitespace": true,
+
 	"files.associations": {
 		"*.css": "tailwindcss"
 	},
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
 
 	"git.autofetch": true,
 	"git.confirmSync": false,
@@ -55,27 +60,26 @@
 	"git.openRepositoryInParentFolders": "always",
 	"git.terminalAuthentication": false,
 
-	"terminal.external.osxExec": "Ghostty.app",
-	"terminal.integrated.defaultProfile.osx": "zsh",
-	"terminal.explorerKind": "both",
-	"terminal.integrated.enableMultiLinePasteWarning": "never",
-
-	"workbench.activityBar.location": "top",
-	"workbench.colorTheme": "Default Light Modern",
-	"workbench.preferredLightColorTheme": "Default Light Modern",
-	"workbench.preferredDarkColorTheme": "Default Dark Modern",
-	"workbench.settings.editor": "json",
-	"window.autoDetectColorScheme": true,
-
-	"diffEditor.ignoreTrimWhitespace": false,
-
 	"javascript.updateImportsOnFileMove.enabled": "always",
-	"typescript.updateImportsOnFileMove.enabled": "always",
 
 	"npm.packageManager": "pnpm",
 
+	"redhat.telemetry.enabled": false,
+	"security.workspace.trust.untrustedFiles": "open",
 	"svelte.enable-ts-plugin": true,
 
-	"redhat.telemetry.enabled": false,
-	"security.workspace.trust.untrustedFiles": "open"
+	"terminal.external.osxExec": "Ghostty.app",
+	"terminal.explorerKind": "both",
+	"terminal.integrated.defaultProfile.osx": "zsh",
+	"terminal.integrated.enableMultiLinePasteWarning": "never",
+
+	"typescript.updateImportsOnFileMove.enabled": "always",
+
+	"window.autoDetectColorScheme": true,
+
+	"workbench.activityBar.location": "top",
+	"workbench.colorTheme": "Default Light Modern",
+	"workbench.preferredDarkColorTheme": "Default Dark Modern",
+	"workbench.preferredLightColorTheme": "Default Light Modern",
+	"workbench.settings.editor": "json"
 }
