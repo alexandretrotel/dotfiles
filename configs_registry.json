@@ -8,6 +8,13 @@
       "enabled": true,
       "description": "Aerospace window manager configuration"
     },
+    "bashrc": {
+      "name": "Bash Configuration",
+      "source_path": ".bashrc",
+      "target_path": "/Users/trotelalexandre/.bashrc",
+      "enabled": true,
+      "description": "Bash shell configuration"
+    },
     "cursor_keybindings": {
       "name": "Cursor Keybindings",
       "source_path": "cursor/keybindings.json",
