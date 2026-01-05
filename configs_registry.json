@@ -71,6 +71,13 @@
       "enabled": true,
       "description": "Zed editor settings"
     },
+    "zprofile": {
+      "name": "Zsh Profile",
+      "source_path": ".zprofile",
+      "target_path": "/Users/trotelalexandre/.zprofile",
+      "enabled": true,
+      "description": "Zsh profile configuration"
+    },
     "zshrc": {
       "name": "Zsh Configuration",
       "source_path": ".zshrc",
