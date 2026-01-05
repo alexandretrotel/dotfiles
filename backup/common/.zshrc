@@ -40,9 +40,6 @@ export DYLD_FALLBACK_LIBRARY_PATH="$(xcode-select --print-path)/Toolchains/Xcode
 export LDFLAGS=-L/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/lib
 
-# Python
-alias python='python3'
-
 # LLVM
 export LIBCLANG_PATH="$(brew --prefix llvm)/lib"
 export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
