@@ -43,6 +43,13 @@
       "enabled": true,
       "description": "Global Git configuration"
     },
+    "profile": {
+      "name": "Profile",
+      "source_path": ".profile",
+      "target_path": "/Users/trotelalexandre/.profile",
+      "enabled": true,
+      "description": "Profile configuration"
+    },
     "vimrc": {
       "name": "Vim Configuration",
       "source_path": ".vimrc",
