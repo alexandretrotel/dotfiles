@@ -1,6 +1,3 @@
-# fzf
-[ -f ~/.fzf.bash ] && source ~/.fzf.bash
-
 # LM Studio CLI (lms)
 export PATH="$PATH:/Users/trotelalexandre/.lmstudio/bin"
 
