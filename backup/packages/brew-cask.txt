@@ -1,4 +1,3 @@
-aerospace
 bruno
 font-hack-nerd-font
 ghostty
