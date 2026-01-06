@@ -3,5 +3,5 @@ Legend: production dependency, optional only, dev only
 /Users/trotelalexandre/Library/pnpm/global/5
 
 dependencies:
-turbo 2.7.2
+turbo 2.7.3
 vercel 49.2.0
