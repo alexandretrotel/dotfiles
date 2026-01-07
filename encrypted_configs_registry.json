@@ -1,0 +1,37 @@
+{
+  "entries": {
+    "ssh_config": {
+      "description": "SSH client configuration file",
+      "enabled": true,
+      "encrypt_filename": false,
+      "name": "SSH Config",
+      "source_path": "ssh/config",
+      "target_path": "/Users/trotelalexandre/.ssh/config"
+    },
+    "app.db": {
+      "description": "Wealthfolio SQLite database file",
+      "enabled": true,
+      "encrypt_filename": false,
+      "name": "Wealthfolio app.db",
+      "source_path": "wealthfolio/app.db",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/com.teymz.wealthfolio/app.db"
+    },
+    "app.db-shm": {
+      "description": "Wealthfolio SQLite shared memory file",
+      "enabled": true,
+      "encrypt_filename": false,
+      "name": "Wealthfolio app.db-shm",
+      "source_path": "wealthfolio/app.db-shm",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/com.teymz.wealthfolio/app.db-shm"
+    },
+    "app.db-wal": {
+      "description": "Wealthfolio SQLite WAL file",
+      "enabled": true,
+      "encrypt_filename": false,
+      "name": "Wealthfolio app.db-wal",
+      "source_path": "wealthfolio/app.db-wal",
+      "target_path": "/Users/trotelalexandre/Library/Application Support/com.teymz.wealthfolio/app.db-wal"
+    }
+  },
+  "version": "1.0.0"
+}
