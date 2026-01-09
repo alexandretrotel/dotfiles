@@ -1,5 +1,7 @@
 bat v0.26.1:
     bat
+cargo-audit v0.22.0:
+    cargo-audit
 cargo-edit v0.13.8:
     cargo-add
     cargo-rm
@@ -14,6 +16,8 @@ cargo-tarpaulin v0.35.0:
 cargo-update v18.0.0:
     cargo-install-update
     cargo-install-update-config
+cargo-watch v8.5.3:
+    cargo-watch
 diesel_cli v2.3.5:
     diesel
 fd-find v10.3.0:
