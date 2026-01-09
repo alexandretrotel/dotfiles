@@ -24,3 +24,4 @@ ripgrep
 topgrade
 tree
 yt-dlp
+zoxide

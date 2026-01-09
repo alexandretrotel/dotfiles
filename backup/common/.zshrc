@@ -48,3 +48,6 @@ export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
 alias lg='lazygit'
 alias ld='lazydocker'
 alias gs='git status'
+
+# Zoxide
+eval "$(zoxide init zsh)"
