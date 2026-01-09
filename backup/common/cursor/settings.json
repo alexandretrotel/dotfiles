@@ -68,6 +68,8 @@
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	"typescript.updateImportsOnFileMove.enabled": "always",
 
+	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+
 	"npm.packageManager": "pnpm",
 
 	"svelte.enable-ts-plugin": true,
