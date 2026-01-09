@@ -20,7 +20,7 @@ fd-find v10.3.0:
     fd
 feedyourai v1.6.0:
     fyai
-mntn v2.1.0:
+mntn v2.2.0:
     mntn
 ripgrep v15.1.0:
     rg
