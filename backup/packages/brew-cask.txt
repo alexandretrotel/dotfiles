@@ -1,4 +1,5 @@
 bruno
+cursor
 font-hack-nerd-font
 ghostty
 helium-browser
