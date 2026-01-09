@@ -26,6 +26,8 @@ feedyourai v1.6.0:
     fyai
 mntn v2.2.0:
     mntn
+nt v0.1.0 (/Users/trotelalexandre/Documents/projects/nt):
+    nt
 ripgrep v15.1.0:
     rg
 simple-todo-cli v1.0.1:
@@ -35,3 +37,5 @@ todo-tree v0.3.0:
     tt
 vedit v0.1.0:
     vedit
+workshop-runner v0.2.5:
+    wr

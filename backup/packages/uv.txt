@@ -1,4 +1,4 @@
 ruff v0.14.11
 - ruff
-ty v0.0.10
+ty v0.0.11
 - ty
