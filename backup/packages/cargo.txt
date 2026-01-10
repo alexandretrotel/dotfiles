@@ -7,6 +7,8 @@ cargo-edit v0.13.8:
     cargo-rm
     cargo-set-version
     cargo-upgrade
+cargo-expand v1.0.119:
+    cargo-expand
 cargo-modules v0.25.0:
     cargo-modules
 cargo-outdated v0.17.0:
