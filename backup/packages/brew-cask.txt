@@ -1,4 +1,5 @@
 bruno
+codex
 cursor
 font-hack-nerd-font
 ghostty
